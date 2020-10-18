@@ -4,3 +4,9 @@ maven
 ---------------------
 this line updated in master branch
 this line updated in dev branch
+<<<<<<< HEAD
+=======
+TomCat
+SonarQube
+Jenkins
+>>>>>>> b440e5e... Jenkins line updated
