@@ -5,8 +5,12 @@ maven
 this line updated in master branch
 this line updated in dev branch
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 TomCat
 SonarQube
 Jenkins
 >>>>>>> b440e5e... Jenkins line updated
+=======
+sonarqube tool is updated
+>>>>>>> de26039afbd3b15844c6e8506c2f353c873985af
